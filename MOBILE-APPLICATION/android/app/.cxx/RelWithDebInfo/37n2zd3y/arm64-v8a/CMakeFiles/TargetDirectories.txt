@@ -1,0 +1,2 @@
+/Users/ghost/Desktop/Crazy Developer/shopee seller/android/app/.cxx/RelWithDebInfo/37n2zd3y/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/ghost/Desktop/Crazy Developer/shopee seller/android/app/.cxx/RelWithDebInfo/37n2zd3y/arm64-v8a/CMakeFiles/rebuild_cache.dir

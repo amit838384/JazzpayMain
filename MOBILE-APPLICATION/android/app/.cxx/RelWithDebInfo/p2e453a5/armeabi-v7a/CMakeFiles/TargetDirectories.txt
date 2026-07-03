@@ -1,0 +1,2 @@
+/Users/arise/Desktop/Crazy Developer/Jazz Pay/android/app/.cxx/RelWithDebInfo/p2e453a5/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/arise/Desktop/Crazy Developer/Jazz Pay/android/app/.cxx/RelWithDebInfo/p2e453a5/armeabi-v7a/CMakeFiles/rebuild_cache.dir

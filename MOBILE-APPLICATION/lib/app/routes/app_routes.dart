@@ -1,0 +1,86 @@
+part of 'app_pages.dart';
+// DO NOT EDIT. This is code generated via package:get_cli/get_cli.dart
+
+abstract class Routes {
+  Routes._();
+  static const HOME = _Paths.HOME;
+  static const LOGIN = _Paths.LOGIN;
+  static const REGISTER = _Paths.REGISTER;
+  static const CHAT = _Paths.CHAT;
+  static const PROFILE = _Paths.PROFILE;
+  static const ONBOARD = _Paths.ONBOARD;
+  static const CART = _Paths.CART;
+  static const HOME_SEARCH = _Paths.HOME_SEARCH;
+  static const SEARCH = _Paths.SEARCH;
+  static const FORGOT_PASSWORD = _Paths.FORGOT_PASSWORD;
+  static const CHANGE_PASSWORD = _Paths.CHANGE_PASSWORD;
+  static const WISHLIST = _Paths.WISHLIST;
+  static const ORDERS = _Paths.ORDERS;
+  static const PRODUCT = _Paths.PRODUCT;
+  static const PRODUCT_LIST = _Paths.PRODUCT_LIST;
+  static const CHECKOUT = _Paths.CHECKOUT;
+  static const ADDRESS = _Paths.ADDRESS;
+  static const ADD_ADDRESS = _Paths.ADD_ADDRESS;
+  static const SPLASH = _Paths.SPLASH;
+  static const BASE_PAGE = _Paths.BASE_PAGE;
+  static const SUB_CAT = _Paths.SUB_CAT;
+  static const ALL_CAT = _Paths.ALL_CAT;
+  static const SETTINGS = _Paths.SETTINGS;
+  static const SUB_SUB_CAT = _Paths.SUB_SUB_CAT;
+  static const NOTIFICATION = _Paths.NOTIFICATION;
+  static const COUPON_CODE = _Paths.COUPON_CODE;
+  static const ORDER_DETAILS = _Paths.ORDER_DETAILS;
+  static const SELLER_REGISTER = _Paths.SELLER_REGISTER;
+  static const FEEDBACK = _Paths.FEEDBACK;
+  static const MY_PROFILE = _Paths.MY_PROFILE;
+  static const FAMILY = _Paths.FAMILY;
+  static const ADD_CHILD = _Paths.ADD_CHILD;
+  static const TOP_UP = _Paths.TOP_UP;
+  static const CREDIT_TRANSFER = _Paths.CREDIT_TRANSFER;
+  static const HISTORY = _Paths.HISTORY;
+  static const PRE_ORDER = _Paths.PRE_ORDER;
+  static const PAY_FOR_SERVICE = _Paths.PAY_FOR_SERVICE;
+  static const PDF_VIEW = _Paths.PDF_VIEW;
+}
+
+abstract class _Paths {
+  _Paths._();
+  static const HOME = '/home';
+  static const LOGIN = '/login';
+  static const REGISTER = '/register';
+  static const SELLER_REGISTER = '/seller-register';
+  static const CHAT = '/chat';
+  static const PROFILE = '/profile';
+  static const ONBOARD = '/onboard';
+  static const CART = '/cart';
+  static const HOME_SEARCH = '/home-search';
+  static const SEARCH = '/search';
+  static const FORGOT_PASSWORD = '/forgot-password';
+  static const CHANGE_PASSWORD = '/change-password';
+  static const WISHLIST = '/wishlist';
+  static const ORDERS = '/orders';
+  static const PRODUCT = '/product';
+  static const PRODUCT_LIST = '/product-list';
+  static const CHECKOUT = '/checkout';
+  static const ADDRESS = '/address';
+  static const ADD_ADDRESS = '/add-address';
+  static const SPLASH = '/splash';
+  static const BASE_PAGE = '/base-page';
+  static const SUB_CAT = '/sub-cat';
+  static const SUB_SUB_CAT = '/sub-sub-cat';
+  static const ALL_CAT = '/all-cat';
+  static const SETTINGS = '/settings';
+  static const NOTIFICATION = '/notification';
+  static const COUPON_CODE = '/coupon_code';
+  static const ORDER_DETAILS = '/order_details';
+  static const FEEDBACK = '/feedback';
+  static const MY_PROFILE = '/my-profile';
+  static const FAMILY = '/family';
+  static const ADD_CHILD = '/add-child';
+  static const TOP_UP = '/top-up';
+  static const CREDIT_TRANSFER = '/credit-transfer';
+  static const HISTORY = '/history';
+  static const PRE_ORDER = '/pre-order';
+  static const PAY_FOR_SERVICE = '/pay-service';
+  static const PDF_VIEW = '/pdf-view';
+}

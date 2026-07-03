@@ -1,0 +1,2 @@
+/Users/ghost/Desktop/Crazy Developer/Jazz Pay/android/app/.cxx/Debug/2x471v5p/x86_64/CMakeFiles/edit_cache.dir
+/Users/ghost/Desktop/Crazy Developer/Jazz Pay/android/app/.cxx/Debug/2x471v5p/x86_64/CMakeFiles/rebuild_cache.dir

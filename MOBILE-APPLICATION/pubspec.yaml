@@ -1,0 +1,102 @@
+name: jazz_smart_pay
+description: "A new Flutter project."
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number is used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+# In Windows, build-name is used as the major, minor, and patch parts
+# of the product and file versions while build-number is used as the build suffix.
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.4
+
+# Dependencies specify other packages that your package needs in order to work.
+# To automatically upgrade your package dependencies to the latest versions
+# consider running `flutter pub upgrade --major-versions`. Alternatively,
+# dependencies can be manually updated by changing the version numbers below to
+# the latest version available on pub.dev. To see which dependencies have newer
+# versions available, run `flutter pub outdated`.
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  get: ^4.6.6
+  gap: ^3.0.1
+  cached_network_image: ^3.4.1
+  carousel_slider: ^5.0.0
+  smooth_page_indicator: ^1.2.0+3
+  photo_view: ^0.15.0
+  flutter_animate: ^4.5.0
+  get_storage: ^2.1.1
+  dio: ^5.7.0
+  pretty_dio_logger: ^1.4.0
+  # intl: ^0.20.2
+  intl: ^0.20.2
+  # intl: ^0.20.1
+  dotted_border: ^3.0.1
+  # geolocator: ^14.0.1
+  # geolocator: ^13.0.2
+  image_picker: ^1.1.2
+  rename_app: ^1.6.5
+  omni_datetime_picker: ^2.1.1
+  flutter_staggered_grid_view: ^0.7.0
+  app_links: ^6.4.0
+  flutter_localization: ^0.3.3
+  image_cropper: ^11.0.0
+  elevenlabs_agents: ^0.3.0
+  permission_handler: ^12.0.1
+  flutter_pdfview: ^1.4.4
+  path_provider: ^2.1.5
+  sadad_qa_payments: ^1.0.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  flutter_launcher_icons: ^0.14.1
+  change_app_package_name: ^1.5.0
+  flutter_native_splash: ^2.4.6
+
+flutter_native_splash:
+  color: "#9B203E"
+  color_dark: "#9B203E"
+  image: assets/images/splash_bg1.png
+  image_dark: assets/images/splash_bg1.png
+  android: true
+  ios: false
+  web: false
+
+  android_12:
+    color: "#9B203E"
+    color_dark: "#9B203E"
+    icon_background_color: "#9B203E"
+    icon_background_color_dark: "#9B203E"
+    image: assets/images/splash_bg1.png
+    image_dark: assets/images/splash_bg1.png
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icon/app_icon.jpg"
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+    - assets/icons/
+    - assets/icon/
+    - assets/icons/bottom-bar-icons/
+    - assets/images/
+    - assets/lang/en.json
+    - assets/lang/ar.json
+    - assets/pdf/
